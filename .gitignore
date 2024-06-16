@@ -1,0 +1,13 @@
+code/__pycache__
+code/lifelong_res.py
+code/sensitive.sh
+code/sensitive.py
+code/test.sh
+glove/*
+images
+knowledgebase/*
+log/*
+dataset/*
+prepared/*
+processed_dataset/*
+result/*
